@@ -1,3 +1,5 @@
+   # GIGS.INVEST – Simulador de Renda Passiva com FIIs
+   
 Planilha em Excel que simula quanto um aporte mensal em fundos imobiliários acumula e quanto rende em dividendos, com a divisão do aporte por perfil de investidor.
 
 ## Perguntas de negócio que a planilha responde
