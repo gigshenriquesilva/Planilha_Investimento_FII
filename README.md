@@ -44,3 +44,14 @@ Os percentuais são premissas ilustrativas, sem fonte externa e sem caráter de 
 ## Limitações
 
 Assume rendimento constante e reinvestimento dos dividendos, sem impostos, taxas ou variação de cotas. Salário, aporte e taxa são valores de exemplo.
+
+
+## Evidência
+
+Mesma simulação em dois perfis. O patrimônio e os dividendos não mudam, e a divisão do aporte e o gráfico de rosca se ajustam ao perfil. No Conservador, o Papel (CRI) recebe R$ 181,30 por mês e o Desenvolvimento / Híbrido recebe 0%. No Arrojado, o Papel (CRI) recebe R$ 51,80 e o Desenvolvimento / Híbrido recebe R$ 103,60.
+
+### Perfil Conservador
+![Perfil Conservador](print_perfil_conservador.png)
+
+### Perfil Arrojado
+![Perfil Arrojado](print_perfil_arrojado.png)
