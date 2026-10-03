@@ -36,7 +36,7 @@ O patrimônio e os dividendos são os mesmos em qualquer perfil. O que muda é a
 
 ## Percentuais por perfil
 
-Os percentuais são premissas ilustrativas, sem fonte externa e sem caráter de recomendação. 
+Os percentuais são premissas ilustrativas minhas, sem fonte externa e sem caráter de recomendação. Podem ser editados na aba `Base`, onde há uma conferência de que cada perfil soma 100%. A ordem de cada linha é Conservador / Moderado / Arrojado.
 
 - Tijolo – Logística: 20% / 25% / 20%
 - Tijolo – Lajes corporativas: 10% / 15% / 15%
@@ -44,10 +44,6 @@ Os percentuais são premissas ilustrativas, sem fonte externa e sem caráter de 
 - Papel (CRI): 35% / 20% / 10%
 - Fundo de fundos (FoF): 20% / 15% / 15%
 - Desenvolvimento / Híbrido: 0% / 5% / 20%
-
-## Limitações
-
-Assume rendimento constante e reinvestimento dos dividendos, sem impostos, taxas ou variação de cotas. Salário, aporte e taxa são valores de exemplo.
 
 ## Evidência
 
@@ -58,3 +54,9 @@ Mesma simulação em dois perfis. O patrimônio e os dividendos não mudam, e a 
 
 ### Perfil Arrojado
 ![Perfil Arrojado](print_perfil_arrojado.png)
+
+## Limitações
+
+Assume rendimento constante e reinvestimento dos dividendos, sem impostos, taxas ou variação de cotas. Salário, aporte e taxa são valores de exemplo.
+
+
