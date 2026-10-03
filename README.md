@@ -45,6 +45,9 @@ Os percentuais são premissas ilustrativas, sem fonte externa e sem caráter de 
 
 Assume rendimento constante e reinvestimento dos dividendos, sem impostos, taxas ou variação de cotas. Salário, aporte e taxa são valores de exemplo.
 
+## Arquivo
+
+`Planejamento_FII.xlsx` (abas `Simulador` e `Base`).
 
 ## Evidência
 
